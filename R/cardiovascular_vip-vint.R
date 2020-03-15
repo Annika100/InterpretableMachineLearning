@@ -14,7 +14,7 @@ library("vip")
 library("randomForest")
 
 # read data
-cardiovascular <- read.csv("C:/Users/Annika Fischer/Desktop/Uni/Master_Informationsverarbeitung/19-20_WiSe/Interpretable_Machine_Learning/Hausarbeit/Daten/cardiovascular-disease-dataset/cardiovascular.csv")
+cardiovascular <- read.csv("C:/Users/.../cardiovascular.csv")
 
 # remove "id" column from dataset
 cardiovascular = cardiovascular[,c(2,3,4,5,6,7,8,9,10,11,12,13)]
