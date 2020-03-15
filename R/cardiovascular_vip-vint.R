@@ -1,3 +1,6 @@
+# variable importance measure from Greenwell, Boehmke and McCarthy (2008) for measuring the feature importance 
+# and interaction strength of feature interaction 
+
 #install packages
 install.packages("pdp")
 install.packages("ggplot2")
