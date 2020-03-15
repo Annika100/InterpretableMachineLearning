@@ -1,3 +1,5 @@
+# H-Statistic from Friedman and Popescu (2008) for measuring the feature interaction of machine learning models
+
 # install packages
 install.packages("iml")
 install.packages("mlr")
